@@ -58,6 +58,6 @@
     "simple-git": "^2.4.0",
     "twilio-release-tool": "^1.0.0",
     "watchify": "^4.0.0",
-    "webrtc-adapter": "^6.4.8"
+    "webrtc-adapter": "8.1.0"
   }
 }
